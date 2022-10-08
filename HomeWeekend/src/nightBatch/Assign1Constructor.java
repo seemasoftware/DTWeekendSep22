@@ -20,6 +20,7 @@ public class Assign1Constructor {
 	}
 	
 	public static void main(String[] args) {
+		// Creating Constructor object for one parameter
 		Assign1Constructor obj = new Assign1Constructor(1);
 	}
 
