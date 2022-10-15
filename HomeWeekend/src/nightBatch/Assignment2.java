@@ -34,9 +34,6 @@ public class Assignment2 {
 		int divres = obj.div(subres2, 2);
 		
 		System.out.println("((((10*2)-2)+2)-2)/2) final answer is :" +divres );
-		
-		 
-		
-	}
+		}
 
 }
