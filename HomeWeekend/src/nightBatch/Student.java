@@ -23,6 +23,9 @@ public class Student {
 		System.out.println(stu.roll_no);
 		System.out.println(stu.age);
 		
+		Animal s = new Animal();
+		s.colour();// we can call Animal class method but with s - object we can not call Student class methods----- Has relationship
+		s.name();
 	}
 
 }
