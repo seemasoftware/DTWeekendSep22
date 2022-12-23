@@ -12,6 +12,7 @@ public class Basic {
 		System.out.println("automation");
 	}
 	
+	
 	public static void main(String[] args) {
 		Basic ob1 = new Basic();
 		ob1.age=5;

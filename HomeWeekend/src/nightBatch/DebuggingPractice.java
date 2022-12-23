@@ -5,6 +5,7 @@ public class DebuggingPractice {
 		System.out.println("m2 first line");
 		System.out.println("m2 second line");
 	}
+	
 	public void m1() {
 		System.out.println("m1 first line");
 		System.out.println("m1 second line");

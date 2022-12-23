@@ -5,6 +5,7 @@ public class Animal {
 		System.out.println("parent class method colour");
 	}
 	
+	
 	public void name() {
 		System.out.println("parent class method name");
 	}

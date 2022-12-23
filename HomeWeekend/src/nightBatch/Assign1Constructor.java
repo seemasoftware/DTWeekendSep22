@@ -11,6 +11,7 @@ public class Assign1Constructor {
 		this(1,2);
 		System.out.println(" One parameterised constructor");
 	}
+	
 	public Assign1Constructor(int a, int b) {
 		this();
 		System.out.println(" Two parameterised constructor");

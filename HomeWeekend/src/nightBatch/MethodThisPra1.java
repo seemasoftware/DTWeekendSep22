@@ -11,6 +11,7 @@ public class MethodThisPra1 {
 		this.m2(1,2);
 		this.m4(1,2,3,4);
 		}
+	
 	public void m2(int a, int b) {
 		System.out.println("Two paramaeterized method");
 	}

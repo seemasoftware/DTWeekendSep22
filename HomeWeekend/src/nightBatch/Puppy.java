@@ -11,5 +11,4 @@ public class Puppy  extends Dog{
 		p.brad();
 		p.colour();
 	}
-
 }

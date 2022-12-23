@@ -2,7 +2,7 @@ package nightBatch;
 
 public class SuperThisChildMethod extends SuperThisParentMethod{
 	public void SuperThisChildMethod() {
-		
+	/*	super.a=5;// if it is final in parent class it can not change */
 		System.out.println("Child Default Method");
 	}
 	public void SuperThisChildMethod(int a){

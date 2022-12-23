@@ -12,6 +12,7 @@ public class Student {
 		System.out.println("automation very easy\r\n");
 	}
 
+	
 	public static void main(String[] args) {
 		Student stu = new Student();
 		

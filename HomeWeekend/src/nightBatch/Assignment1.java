@@ -3,6 +3,7 @@ package nightBatch;
 public class Assignment1 {
 	//((((10+2)-2)+2)*2)/2)
 	
+	
 	public int sum (int a, int b) {
 		int c= a+b;
 		return c;
